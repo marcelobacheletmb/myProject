@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7CD9-0D16
+
+ Directory of C:\Users\USER\Documents\myProject
+
+12/01/2025  12:32 AM    <DIR>          .
+11/30/2025  11:17 PM    <DIR>          ..
+11/30/2025  11:17 PM                27 file1.txt
+11/30/2025  11:47 PM                27 file2.txt
+11/30/2025  11:20 PM    <DIR>          images
+12/01/2025  12:32 AM    <DIR>          logs
+               2 File(s)             54 bytes
+               4 Dir(s)  185,982,283,776 bytes free
